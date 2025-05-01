@@ -1,0 +1,18 @@
+<? xml version="1.0" encoding="UTF-8"?>
+<?xml-sytlesheet type= "text/xsl" href="Assignment 12.xsl"?>
+
+<library>
+<book id="1">
+<name>Learning xml</name>
+<author>Joe </author>
+<year>2020</year>
+</book>
+
+<book id="2">
+<name>Learning xslt</name>
+<author>Smith </author>
+<year>2019</year>
+</book>
+
+</library>
+
