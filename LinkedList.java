@@ -28,7 +28,7 @@ public class LinkedList {
         temp.next = newNode;
     }
 
-    // Delete a node by value
+    
     public void delete(int key) {
         Node temp = head, prev = null;
 
